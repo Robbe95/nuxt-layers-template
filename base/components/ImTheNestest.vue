@@ -1,9 +1,10 @@
 <script setup lang="ts">
-
+import { AppDialog } from '@wisemen/vue-core'
 </script>
 
 <template>
   <div>
-    asdfdsaf
+    <AppDialog />
+    <AppButton />
   </div>
 </template>

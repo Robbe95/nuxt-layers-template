@@ -1,5 +1,7 @@
 <script setup lang="ts">
+import { useQuery } from '@tanstack/vue-query'
 
+const qery = useMut()
 </script>
 
 <template>
