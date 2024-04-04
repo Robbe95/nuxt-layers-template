@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "./base/tsconfig.json",
+    "./app/tsconfig.json"
+  ],
+
+  "files": [
+    "package.json",
+    "eslint.config.js"
+  ]
+
+}
